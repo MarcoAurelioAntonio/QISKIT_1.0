@@ -1,6 +1,4 @@
-![Qiskit Logo](https://avatars.githubusercontent.com/u/30696987?s=200&v=4)
-
-<p align="center" style="background-color: white; padding: 10px; display: inline-block;">&nbsp;<img align="center" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" alt="Qiskit" /></p>
+<div align="center" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" alt="Qiskit" /></div>
 
 # Quick Start with Qiskit 1.0
 
