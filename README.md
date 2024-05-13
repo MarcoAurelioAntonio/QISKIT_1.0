@@ -5,7 +5,7 @@
 Qiskit 1.0 brings new stability guarantees and performance improvements, but it does break compatibility with all previous versions of Qiskit
 
 This repository contains basic instructions to get started with Qiskit in a virtual environment.
-![For more information clik here](https://docs.quantum.ibm.com/start/install)
+[For more information clik here](https://docs.quantum.ibm.com/start/install)
 
 ## Setting up Virtual Environment USING MINICONDA 3
 
