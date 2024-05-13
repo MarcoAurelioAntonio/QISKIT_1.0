@@ -1,5 +1,7 @@
 ![Qiskit Logo](https://avatars.githubusercontent.com/u/30696987?s=200&v=4)
 
+<p align="center" style="background-color: white; padding: 10px; display: inline-block;">&nbsp;<img align="center" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" alt="Qiskit" /></p>
+
 # Quick Start with Qiskit 1.0
 
 Qiskit 1.0 brings new stability guarantees and performance improvements, but it does break compatibility with all previous versions of Qiskit
