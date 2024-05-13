@@ -1,4 +1,4 @@
-<div align="center" src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" alt="Qiskit" /></div>
+<img src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" alt="Qiskit" style="background-color: white; padding: 5px;">
 
 # Quick Start with Qiskit 1.0
 
