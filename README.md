@@ -1,7 +1,4 @@
-![Qiskit Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/IBM_Qiskit-Logo.svg/1200px-IBM_Qiskit-Logo.svg.png)
-
-![Qiskit 1.0 Logo](https://github.com/Qiskit/qiskit/raw/master/docs/_static/qiskit-logo.png)
-
+![Qiskit Logo](https://avatars.githubusercontent.com/u/30696987?s=200&v=4)
 
 # Quick Start with Qiskit 1.0
 
