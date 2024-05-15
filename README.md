@@ -59,3 +59,18 @@ This repository contains basic instructions to get started with Qiskit in a virt
 
     This library provides access to IBM Quantum cloud computing resources, If you plan to run jobs on quantum hardware.
 
+5. **Install Qiskit visualization, extra visualization support**
+
+    ```shell
+    pip install qiskit[visualization]
+    ```
+
+6. **Cloning an environment**
+    Use the terminal for the following steps:
+
+    ```shell
+    conda create --name myclone --clone myenv
+    ```
+    You can make an exact copy of an environment by creating a clone of it
+
+    Replace `myclone` with the name of the new environment. Replace `myenv` with the name of the existing environment that you want to copy.
