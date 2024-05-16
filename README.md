@@ -66,6 +66,7 @@ This repository contains basic instructions to get started with Qiskit in a virt
     ```
 
 6. **Cloning an environment**
+
     Use the terminal for the following steps:
 
     ```shell
