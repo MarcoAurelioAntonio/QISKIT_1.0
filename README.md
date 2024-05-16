@@ -82,3 +82,7 @@ This repository contains basic instructions to get started with Qiskit in a virt
 
 ## :handshake: Contributing
 - I welcome collaboration and contributions to improve this code and Doc. Feel free to fork and submit pull requests or Add a new issue with your suggestions.
+
+## 📝 License
+
+This project is [MIT](./LICENSE) licensed.
