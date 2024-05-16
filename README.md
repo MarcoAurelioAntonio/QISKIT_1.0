@@ -77,8 +77,8 @@ This repository contains basic instructions to get started with Qiskit in a virt
     Replace `myclone` with the name of the new environment. Replace `myenv` with the name of the existing environment that you want to copy.
 
 
-### Acknowledgement
-This code is based on the documentation provided by [IBM Quantum.](https://docs.quantum.ibm.com/start/install) :blue_book:
+### :blue_book: Acknowledgement
+This code is based on the documentation provided by [IBM Quantum.](https://docs.quantum.ibm.com/start/install)
 
-### Collaboration
-I welcome collaboration and contributions to improve this code and Doc. Feel free to fork and submit pull requests or Add a new issue with your suggestions :handshake:
+### :handshake: Collaboration
+I welcome collaboration and contributions to improve this code and Doc. Feel free to fork and submit pull requests or Add a new issue with your suggestions.
