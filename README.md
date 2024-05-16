@@ -78,7 +78,7 @@ This repository contains basic instructions to get started with Qiskit in a virt
 
 
 ## :blue_book: Acknowledgements
-- This code is based on the documentation provided by [IBM Quantum.](https://docs.quantum.ibm.com/start/install)
+- This code is based on the documentation provided by [IBM Quantum Documentation Web.](https://docs.quantum.ibm.com/start/install)
 
 ## :handshake: Contributing
 - I welcome collaboration and contributions to improve this code and Doc. Feel free to fork and submit pull requests or Add a new issue with your suggestions.
