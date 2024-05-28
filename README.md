@@ -1,6 +1,4 @@
-<img src="https://github.com/MarcoAurelioAntonio/QISKIT_1.0/assets/99001924/0a655da2-8432-4175-a3d8-0a673bf8b515" alt="Qiskit" style="background-color: white; padding: 5px;">
-
-# Quick Start with Qiskit 1.x
+## <img src="https://github.com/MarcoAurelioAntonio/QISKIT_1.0/assets/99001924/0a655da2-8432-4175-a3d8-0a673bf8b515" alt="qiskit" width="60" height="60"> Quick Start with Qiskit 1.x
 
 Qiskit 1.0 brings new stability guarantees and performance improvements, but it does break compatibility with all previous versions of Qiskit
 
