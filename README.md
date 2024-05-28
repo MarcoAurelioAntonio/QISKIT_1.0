@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/30696987?s=200&v=4" alt="Qiskit" style="background-color: white; padding: 5px;">
+<img src="https://github.com/MarcoAurelioAntonio/QISKIT_1.0/assets/99001924/0a655da2-8432-4175-a3d8-0a673bf8b515" alt="Qiskit" style="background-color: white; padding: 5px;">
 
 # Quick Start with Qiskit 1.x
 
